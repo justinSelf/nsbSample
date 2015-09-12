@@ -1,1 +1,0 @@
-C:\Projects\NSBSample\NSBSample\bin\Debug\NSBSample.exe.config
