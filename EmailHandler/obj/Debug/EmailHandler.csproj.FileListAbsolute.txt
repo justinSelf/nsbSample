@@ -1,0 +1,14 @@
+C:\Projects\NSBSample\EmailHandler\bin\Debug\EmailHandler.dll.config
+C:\Projects\NSBSample\EmailHandler\bin\Debug\EmailHandler.dll
+C:\Projects\NSBSample\EmailHandler\bin\Debug\EmailHandler.pdb
+C:\Projects\NSBSample\EmailHandler\bin\Debug\NServiceBus.Core.dll
+C:\Projects\NSBSample\EmailHandler\bin\Debug\NServiceBus.Host.exe
+C:\Projects\NSBSample\EmailHandler\bin\Debug\Sample.Contracts.dll
+C:\Projects\NSBSample\EmailHandler\bin\Debug\Sample.Contracts.pdb
+C:\Projects\NSBSample\EmailHandler\bin\Debug\NServiceBus.Core.pdb
+C:\Projects\NSBSample\EmailHandler\bin\Debug\NServiceBus.Core.xml
+C:\Projects\NSBSample\EmailHandler\bin\Debug\NServiceBus.Host.pdb
+C:\Projects\NSBSample\EmailHandler\bin\Debug\NServiceBus.Host.xml
+C:\Projects\NSBSample\EmailHandler\obj\Debug\EmailHandler.csprojResolveAssemblyReference.cache
+C:\Projects\NSBSample\EmailHandler\obj\Debug\EmailHandler.dll
+C:\Projects\NSBSample\EmailHandler\obj\Debug\EmailHandler.pdb
