@@ -1,0 +1,14 @@
+C:\Projects\NSBSample\ProcessHandler\bin\Debug\ProcessHandler.dll.config
+C:\Projects\NSBSample\ProcessHandler\bin\Debug\ProcessHandler.dll
+C:\Projects\NSBSample\ProcessHandler\bin\Debug\ProcessHandler.pdb
+C:\Projects\NSBSample\ProcessHandler\bin\Debug\NServiceBus.Core.dll
+C:\Projects\NSBSample\ProcessHandler\bin\Debug\NServiceBus.Host.exe
+C:\Projects\NSBSample\ProcessHandler\bin\Debug\Sample.Contracts.dll
+C:\Projects\NSBSample\ProcessHandler\bin\Debug\Sample.Contracts.pdb
+C:\Projects\NSBSample\ProcessHandler\bin\Debug\NServiceBus.Core.pdb
+C:\Projects\NSBSample\ProcessHandler\bin\Debug\NServiceBus.Core.xml
+C:\Projects\NSBSample\ProcessHandler\bin\Debug\NServiceBus.Host.pdb
+C:\Projects\NSBSample\ProcessHandler\bin\Debug\NServiceBus.Host.xml
+C:\Projects\NSBSample\ProcessHandler\obj\Debug\ProcessHandler.csprojResolveAssemblyReference.cache
+C:\Projects\NSBSample\ProcessHandler\obj\Debug\ProcessHandler.dll
+C:\Projects\NSBSample\ProcessHandler\obj\Debug\ProcessHandler.pdb

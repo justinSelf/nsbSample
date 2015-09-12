@@ -1,1 +1,11 @@
 C:\Projects\NSBSample\NSBSample\bin\Debug\NSBSample.exe.config
+C:\Projects\NSBSample\NSBSample\bin\Debug\NSBSample.exe
+C:\Projects\NSBSample\NSBSample\bin\Debug\NSBSample.pdb
+C:\Projects\NSBSample\NSBSample\bin\Debug\NServiceBus.Core.dll
+C:\Projects\NSBSample\NSBSample\bin\Debug\Sample.Contracts.dll
+C:\Projects\NSBSample\NSBSample\bin\Debug\Sample.Contracts.pdb
+C:\Projects\NSBSample\NSBSample\bin\Debug\NServiceBus.Core.pdb
+C:\Projects\NSBSample\NSBSample\bin\Debug\NServiceBus.Core.xml
+C:\Projects\NSBSample\NSBSample\obj\Debug\NSBSample.csprojResolveAssemblyReference.cache
+C:\Projects\NSBSample\NSBSample\obj\Debug\NSBSample.exe
+C:\Projects\NSBSample\NSBSample\obj\Debug\NSBSample.pdb
