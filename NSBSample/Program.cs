@@ -1,9 +1,4 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Runtime.InteropServices;
-using System.Text;
-using System.Threading.Tasks;
 using NServiceBus;
 using Sample.Contracts;
 
@@ -32,7 +27,7 @@ namespace NSBSample
 
                 bus.Send(command);
 
-                Console.WriteLine("Sent a new PlaceOrder message with id: {0}", id.ToString("N"));
+                Console.WriteLine($"Sent a new PlaceOrder message with id: {id.ToString("N")}");
 
             }
         }

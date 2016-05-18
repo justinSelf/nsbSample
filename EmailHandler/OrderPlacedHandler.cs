@@ -8,7 +8,7 @@ namespace EmailHandler
     {
         public void Handle(OrderPlaced message)
         {
-            Console.WriteLine("Sending email for Order {0}", message.Id);
+            Console.WriteLine($"Sending email for Order {message.Id}");
         }
     }
 }

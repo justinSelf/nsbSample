@@ -1,8 +1,0 @@
-C:\Projects\NSBSample\Sample.Contracts\bin\Debug\Sample.Contracts.dll
-C:\Projects\NSBSample\Sample.Contracts\bin\Debug\Sample.Contracts.pdb
-C:\Projects\NSBSample\Sample.Contracts\bin\Debug\NServiceBus.Core.dll
-C:\Projects\NSBSample\Sample.Contracts\bin\Debug\NServiceBus.Core.pdb
-C:\Projects\NSBSample\Sample.Contracts\bin\Debug\NServiceBus.Core.xml
-C:\Projects\NSBSample\Sample.Contracts\obj\Debug\Sample.Contracts.csprojResolveAssemblyReference.cache
-C:\Projects\NSBSample\Sample.Contracts\obj\Debug\Sample.Contracts.dll
-C:\Projects\NSBSample\Sample.Contracts\obj\Debug\Sample.Contracts.pdb
