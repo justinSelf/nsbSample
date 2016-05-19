@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Threading;
+using static System.Console;
 
 namespace NSBSample
 {
@@ -19,9 +20,9 @@ namespace NSBSample
 
                 Guid id = Guid.NewGuid();
 
-                Console.WriteLine($"Placing order: {id.ToString("N")}");
+                WriteLine($"Processing order {id.ToString("D")}.");
                 Thread.Sleep(3000);
-                Console.WriteLine($"Order {id.ToString("N")} placed!");
+                WriteLine($"Order {id.ToString("D")} has been processed!");
             }
         }
     }
