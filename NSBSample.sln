@@ -1,15 +1,9 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 14
-VisualStudioVersion = 14.0.23107.0
+VisualStudioVersion = 14.0.25123.0
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NSBSample", "NSBSample\NSBSample.csproj", "{BE30C157-C99A-46DE-91FC-E708B57DF6AF}"
-EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProcessHandler", "ProcessHandler\ProcessHandler.csproj", "{BDB0BBF8-94C5-4FEE-B20B-C1A06BAB5AC6}"
-EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sample.Contracts", "Sample.Contracts\Sample.Contracts.csproj", "{8523E16B-4241-4000-B542-087BBAADF47D}"
-EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EmailHandler", "EmailHandler\EmailHandler.csproj", "{0E66C10A-B096-4126-815A-5B30B5D7FF47}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,18 +15,6 @@ Global
 		{BE30C157-C99A-46DE-91FC-E708B57DF6AF}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{BE30C157-C99A-46DE-91FC-E708B57DF6AF}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{BE30C157-C99A-46DE-91FC-E708B57DF6AF}.Release|Any CPU.Build.0 = Release|Any CPU
-		{BDB0BBF8-94C5-4FEE-B20B-C1A06BAB5AC6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{BDB0BBF8-94C5-4FEE-B20B-C1A06BAB5AC6}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{BDB0BBF8-94C5-4FEE-B20B-C1A06BAB5AC6}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{BDB0BBF8-94C5-4FEE-B20B-C1A06BAB5AC6}.Release|Any CPU.Build.0 = Release|Any CPU
-		{8523E16B-4241-4000-B542-087BBAADF47D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{8523E16B-4241-4000-B542-087BBAADF47D}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{8523E16B-4241-4000-B542-087BBAADF47D}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{8523E16B-4241-4000-B542-087BBAADF47D}.Release|Any CPU.Build.0 = Release|Any CPU
-		{0E66C10A-B096-4126-815A-5B30B5D7FF47}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{0E66C10A-B096-4126-815A-5B30B5D7FF47}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{0E66C10A-B096-4126-815A-5B30B5D7FF47}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{0E66C10A-B096-4126-815A-5B30B5D7FF47}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
