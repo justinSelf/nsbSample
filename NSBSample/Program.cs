@@ -10,8 +10,8 @@ namespace NSBSample
         {
             while (true)
             {
-                ConsoleKeyInfo key = Console.ReadKey();
-                Console.WriteLine();
+                ConsoleKeyInfo key = ReadKey();
+                WriteLine();
 
                 if (key.Key != ConsoleKey.Enter)
                 {
